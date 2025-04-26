@@ -1,7 +1,2 @@
-# Hello-World
-hi,Humans!
-
-Hubot here,I like Node.js and  coffeescript(that's what I'm made of!)
-I've had tacos on the moon and find them far superior to Earth tacos.
-
-this time, I try the branch, pull requests, merge myself
+由于权重过大，已上传至百度网盘：通过网盘分享的文件：附录-实验权重结果
+链接: https://pan.baidu.com/s/1Ix-bAxY51FtF8obCdLSkvw 提取码: UPCC
